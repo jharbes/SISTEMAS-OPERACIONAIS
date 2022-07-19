@@ -1,0 +1,644 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+41 : Processo 1833140 alocacao de blocos no pagefile
+41 : Processo 1833140 HwPF - Executável0
+41 : Processo 1833140 HwPF - Executável1
+41 : Processo 1833140 HwPF - Executável2
+41 : Processo 1833140 HwPF - Executável3
+41 : Processo 1833140 HwPF - Executável4
+41 : Processo 1833140 criado
+42 : Processo 1833140 Pronto -> Exec
+43 : Processo 1833140 Exec -> Pronto por tempo
+44 : Processo 1833140 Pronto -> Exec
+45 : Processo 1833140 Exec -> Pronto por tempo
+46 : Processo 1833140 Pronto -> Exec
+47 : Processo 1833140 Exec -> Pronto por tempo
+48 : Processo 1833140 Pronto -> Exec
+49 : Processo 1833140 Exec -> Pronto por tempo
+50 : Processo 1833140 Pronto -> Exec
+51 : Processo 1833140 Exec -> Pronto por tempo
+52 : Processo 1833140 Pronto -> Exec
+53 : Processo 1833140 Exec -> Pronto por tempo
+54 : Processo 1833140 Pronto -> Exec
+55 : Processo 1833140 Exec -> Pronto por tempo
+56 : Processo 1833140 Pronto -> Exec
+57 : Processo 1833140 Exec -> Pronto por tempo
+58 : Processo 1833140 Pronto -> Exec
+59 : Processo 1833140 Exec -> Pronto por tempo
+60 : Processo 1833140 Pronto -> Exec
+61 : Processo 1833140 Exec -> Pronto por tempo
+62 : Processo 1833140 Pronto -> Exec
+63 : Processo 1833140 Exec -> Pronto por tempo
+64 : Processo 1833140 Pronto -> Exec
+65 : Processo 1833140 Exec -> Pronto por tempo
+66 : Processo 1833140 Pronto -> Exec
+67 : Processo 1833140 Exec -> Pronto por tempo
+68 : Processo 1833140 Pronto -> Exec
+69 : Processo 1833140 Exec -> Pronto por tempo
+70 : Processo 1833140 Pronto -> Exec
+71 : Processo 1833140 Exec -> Pronto por tempo
+72 : Processo 1833140 Pronto -> Exec
+73 : Processo 1833140 Exec -> Pronto por tempo
+74 : Processo 1833140 Pronto -> Exec
+75 : Processo 1833140 Exec -> Pronto por tempo
+76 : Processo 1833140 Pronto -> Exec
+77 : Processo 1833140 Exec -> Pronto por tempo
+78 : Processo 1833140 Pronto -> Exec
+79 : Processo 1833140 Exec -> Pronto por tempo
+80 : Processo 1833140 Pronto -> Exec
+81 : Processo 1833140 Exec -> Pronto por tempo
+82 : Processo 1833140 Pronto -> Exec
+83 : Processo 1833140 Exec -> Pronto por tempo
+84 : Processo 1833140 Pronto -> Exec
+85 : Processo 1833140 Exec -> Pronto por tempo
+86 : Processo 1833140 Pronto -> Exec
+87 : Processo 1833140 Exec -> Pronto por tempo
+88 : Processo 1833140 Pronto -> Exec
+89 : Processo 1833140 Exec -> Pronto por tempo
+90 : Processo 1833140 Pronto -> Exec
+91 : Processo 1833140 Exec -> Pronto por tempo
+92 : Processo 1833140 Pronto -> Exec
+93 : Processo 1833140 Exec -> Pronto por tempo
+94 : Processo 1833140 Pronto -> Exec
+95 : Processo 1833140 Exec -> Pronto por tempo
+96 : Processo 1833140 Pronto -> Exec
+97 : Processo 1833140 Exec -> Pronto por tempo
+98 : Processo 1833140 Pronto -> Exec
+99 : Processo 1833140 Exec -> Pronto por tempo
+100 : Processo 1833140 Pronto -> Exec
+101 : Processo 1833140 Exec -> Pronto por tempo
+102 : Processo 1833140 Pronto -> Exec
+103 : Processo 1833140 Exec -> Pronto por tempo
+104 : Processo 1833140 Pronto -> Exec
+105 : Processo 1833140 Exec -> Pronto por tempo
+106 : Processo 1833140 Pronto -> Exec
+107 : Processo 1833140 Exec -> Pronto por tempo
+108 : Processo 1833140 Pronto -> Exec
+109 : Processo 1833140 Exec -> Pronto por tempo
+110 : Processo 1833140 Pronto -> Exec
+111 : Processo 1833140 Exec -> Pronto por tempo
+112 : Processo 1833140 Pronto -> Exec
+113 : Processo 1833140 Exec -> Pronto por tempo
+114 : Processo 1833140 Pronto -> Exec
+115 : Processo 1833140 Exec -> Pronto por tempo
+116 : Processo 1833140 Pronto -> Exec
+117 : Processo 1833140 Exec -> Pronto por tempo
+118 : Processo 1833140 Pronto -> Exec
+119 : Processo 1833140 Exec -> Pronto por tempo
+120 : Processo 1833140 Pronto -> Exec
+121 : Processo 1833140 Exec -> Pronto por tempo
+122 : Processo 1833140 Pronto -> Exec
+123 : Processo 1833140 Exec -> Pronto por tempo
+124 : Processo 1833140 Pronto -> Exec
+125 : Processo 1833140 Exec -> Pronto por tempo
+126 : Processo 1833140 Pronto -> Exec
+127 : Processo 1833140 Exec -> Pronto por tempo
+128 : Processo 1833140 Pronto -> Exec
+129 : Processo 1833140 Exec -> Pronto por tempo
+130 : Processo 1833140 Pronto -> Exec
+131 : Processo 1833140 Exec -> Pronto por tempo
+132 : Processo 1833140 Pronto -> Exec
+133 : Processo 1833140 Exec -> Pronto por tempo
+134 : Processo 1833140 Pronto -> Exec
+135 : Processo 1833140 Exec -> Pronto por tempo
+136 : Processo 1833140 Pronto -> Exec
+137 : Processo 1833140 Exec -> Pronto por tempo
+138 : Processo 1833140 Pronto -> Exec
+139 : Processo 1833140 Exec -> Pronto por tempo
+140 : Processo 1833140 Pronto -> Exec
+141 : Processo 1833140 Exec -> Pronto por tempo
+142 : Processo 1833140 Pronto -> Exec
+143 : Processo 1833140 Exec -> Pronto por tempo
+144 : Processo 1833140 Pronto -> Exec
+145 : Processo 1833140 Exec -> Pronto por tempo
+146 : Processo 1833140 Pronto -> Exec
+147 : Processo 1833140 Exec -> Pronto por tempo
+148 : Processo 1833140 Pronto -> Exec
+149 : Processo 1833140 Exec -> Pronto por tempo
+150 : Processo 1833140 Pronto -> Exec
+151 : Processo 1833140 Exec -> Pronto por tempo
+152 : Processo 1833140 Pronto -> Exec
+153 : Processo 1833140 Exec -> Pronto por tempo
+154 : Processo 1833140 Pronto -> Exec
+155 : Processo 1833140 Exec -> Pronto por tempo
+156 : Processo 1833140 Pronto -> Exec
+157 : Processo 1833140 Exec -> Pronto por tempo
+158 : Processo 1833140 Pronto -> Exec
+159 : Processo 1833140 Exec -> Pronto por tempo
+160 : Processo 1833140 Pronto -> Exec
+161 : Processo 1833140 Exec -> Pronto por tempo
+162 : Processo 1833140 Pronto -> Exec
+163 : Processo 1833140 Exec -> Pronto por tempo
+164 : Processo 1833140 Pronto -> Exec
+165 : Processo 1833140 Exec -> Pronto por tempo
+166 : Processo 1833140 Pronto -> Exec
+167 : Processo 1833140 Exec -> Pronto por tempo
+168 : Processo 1833140 Pronto -> Exec
+169 : Processo 1833140 Exec -> Pronto por tempo
+170 : Processo 1833140 Pronto -> Exec
+171 : Processo 1833140 Exec -> Pronto por tempo
+172 : Processo 1833140 Pronto -> Exec
+173 : Processo 1833140 Exec -> Pronto por tempo
+174 : Processo 1833140 Pronto -> Exec
+175 : Processo 1833140 Exec -> Pronto por tempo
+176 : Processo 1833140 Pronto -> Exec
+177 : Processo 1833140 Exec -> Pronto por tempo
+178 : Processo 1833140 Pronto -> Exec
+179 : Processo 1833140 Exec -> Pronto por tempo
+180 : Processo 1833140 Pronto -> Exec
+181 : Processo 1833140 Exec -> Pronto por tempo
+182 : Processo 1833140 Pronto -> Exec
+183 : Processo 1833140 Exec -> Pronto por tempo
+184 : Processo 1833140 Pronto -> Exec
+185 : Processo 1833140 Exec -> Pronto por tempo
+186 : Processo 1833140 Pronto -> Exec
+187 : Processo 1833140 Exec -> Pronto por tempo
+188 : Processo 1833140 Pronto -> Exec
+189 : Processo 1833140 Exec -> Pronto por tempo
+190 : Processo 1833140 Pronto -> Exec
+191 : Processo 1833140 Exec -> Pronto por tempo
+192 : Processo 1833140 Pronto -> Exec
+193 : Processo 1833140 Exec -> Pronto por tempo
+194 : Processo 1833140 Pronto -> Exec
+195 : Processo 1833140 Exec -> Pronto por tempo
+196 : Processo 1833140 Pronto -> Exec
+197 : Processo 1833140 Exec -> Pronto por tempo
+198 : Processo 1833140 Pronto -> Exec
+199 : Processo 1833140 Exec -> Pronto por tempo
+200 : Processo 1833140 Pronto -> Exec
+201 : Processo 1833140 Exec -> Pronto por tempo
+202 : Processo 1833140 Pronto -> Exec
+203 : Processo 1833140 Exec -> Pronto por tempo
+204 : Processo 1833140 Pronto -> Exec
+205 : Processo 1833140 Exec -> Pronto por tempo
+206 : Processo 1833140 Pronto -> Exec
+207 : Processo 1833140 Exec -> Pronto por tempo
+208 : Processo 1833140 Pronto -> Exec
+209 : Processo 1833140 Exec -> Pronto por tempo
+210 : Processo 1833140 Pronto -> Exec
+211 : Processo 1833140 Exec -> Pronto por tempo
+212 : Processo 1833140 Pronto -> Exec
+213 : Processo 1833140 Exec -> Pronto por tempo
+214 : Processo 1833140 Pronto -> Exec
+215 : Processo 1833140 Exec -> Pronto por tempo
+216 : Processo 1833140 Pronto -> Exec
+217 : Processo 1833140 Exec -> Pronto por tempo
+218 : Processo 1833140 Pronto -> Exec
+219 : Processo 1833140 Exec -> Pronto por tempo
+220 : Processo 1833140 Pronto -> Exec
+221 : Processo 1833140 Exec -> Pronto por tempo
+222 : Processo 1833140 Pronto -> Exec
+223 : Processo 1833140 Exec -> Pronto por tempo
+224 : Processo 1833140 Pronto -> Exec
+225 : Processo 1833140 Exec -> Pronto por tempo
+226 : Processo 1833140 Pronto -> Exec
+227 : Processo 1833140 Exec -> Pronto por tempo
+228 : Processo 1833140 Pronto -> Exec
+229 : Processo 1833140 Exec -> Pronto por tempo
+230 : Processo 1833140 Pronto -> Exec
+231 : Processo 1833140 Exec -> Pronto por tempo
+232 : Processo 1833140 Pronto -> Exec
+233 : Processo 1833140 Exec -> Pronto por tempo
+234 : Processo 1833140 Pronto -> Exec
+235 : Processo 1833140 Exec -> Pronto por tempo
+236 : Processo 1833140 Pronto -> Exec
+237 : Processo 1833140 Exec -> Pronto por tempo
+238 : Processo 1833140 Pronto -> Exec
+239 : Processo 1833140 Exec -> Pronto por tempo
+240 : Processo 1833140 Pronto -> Exec
+241 : Processo 1833140 Exec -> Pronto por tempo
+242 : Processo 1833140 Pronto -> Exec
+243 : Processo 1833140 Exec -> Pronto por tempo
+244 : Processo 1833140 Pronto -> Exec
+245 : Processo 1833140 Exec -> Pronto por tempo
+246 : Processo 1833140 Pronto -> Exec
+247 : Processo 1833140 Exec -> Pronto por tempo
+248 : Processo 1833140 Pronto -> Exec
+249 : Processo 1833140 Exec -> Pronto por tempo
+250 : Processo 1833140 Pronto -> Exec
+251 : Processo 1833140 Exec -> Pronto por tempo
+252 : Processo 1833140 Pronto -> Exec
+253 : Processo 1833140 Exec -> Pronto por tempo
+254 : Processo 1833140 Pronto -> Exec
+255 : Processo 1833140 Exec -> Pronto por tempo
+256 : Processo 1833140 Pronto -> Exec
+257 : Processo 1833140 Exec -> Pronto por tempo
+258 : Processo 1833140 Pronto -> Exec
+259 : Processo 1833140 Exec -> Pronto por tempo
+260 : Processo 1833140 Pronto -> Exec
+261 : Processo 1833140 Exec -> Pronto por tempo
+262 : Processo 1833140 Pronto -> Exec
+263 : Processo 1833140 Exec -> Pronto por tempo
+264 : Processo 1833140 Pronto -> Exec
+265 : Processo 1833140 Exec -> Pronto por tempo
+266 : Processo 1833140 Pronto -> Exec
+267 : Processo 1833140 Exec -> Pronto por tempo
+268 : Processo 1833140 Pronto -> Exec
+269 : Processo 1833140 Exec -> Pronto por tempo
+270 : Processo 1833140 Pronto -> Exec
+271 : Processo 1833140 Exec -> Pronto por tempo
+272 : Processo 1833140 Pronto -> Exec
+273 : Processo 1833140 Exec -> Pronto por tempo
+274 : Processo 1833140 Pronto -> Exec
+275 : Processo 1833140 Exec -> Pronto por tempo
+276 : Processo 1833140 Pronto -> Exec
+277 : Processo 1833140 Exec -> Pronto por tempo
+278 : Processo 1833140 Pronto -> Exec
+279 : Processo 1833140 Exec -> Pronto por tempo
+280 : Processo 1833140 Pronto -> Exec
+281 : Processo 1833140 Exec -> Pronto por tempo
+282 : Processo 1833140 Pronto -> Exec
+283 : Processo 1833140 Exec -> Pronto por tempo
+284 : Processo 1833140 Pronto -> Exec
+285 : Processo 1833140 Exec -> Pronto por tempo
+286 : Processo 1833140 Pronto -> Exec
+287 : Processo 1833140 Exec -> Pronto por tempo
+288 : Processo 1833140 Pronto -> Exec
+289 : Processo 1833140 Exec -> Pronto por tempo
+290 : Processo 1833140 Pronto -> Exec
+291 : Processo 1833140 Exec -> Pronto por tempo
+292 : Processo 1833140 Pronto -> Exec
+293 : Processo 1833140 Exec -> Pronto por tempo
+294 : Processo 1833140 Pronto -> Exec
+295 : Processo 1833140 Exec -> Pronto por tempo
+296 : Processo 1833140 Pronto -> Exec
+297 : Processo 1833140 Exec -> Pronto por tempo
+298 : Processo 1833140 Pronto -> Exec
+299 : Processo 1833140 Exec -> Pronto por tempo
+300 : Processo 1833140 Pronto -> Exec
+301 : Processo 1833140 Exec -> Pronto por tempo
+302 : Processo 1833140 Pronto -> Exec
+303 : Processo 1833140 Exec -> Pronto por tempo
+304 : Processo 1833140 Pronto -> Exec
+305 : Processo 1833140 Exec -> Pronto por tempo
+306 : Processo 1833140 Pronto -> Exec
+307 : Processo 1833140 Exec -> Pronto por tempo
+308 : Processo 1833140 Pronto -> Exec
+309 : Processo 1833140 Exec -> Pronto por tempo
+310 : Processo 1833140 Pronto -> Exec
+311 : Processo 1833140 Exec -> Pronto por tempo
+312 : Processo 1833140 Pronto -> Exec
+313 : Processo 1833140 Exec -> Pronto por tempo
+314 : Processo 1833140 Pronto -> Exec
+315 : Processo 1833140 Exec -> Pronto por tempo
+316 : Processo 1833140 Pronto -> Exec
+317 : Processo 1833140 Exec -> Pronto por tempo
+318 : Processo 1833140 Pronto -> Exec
+319 : Processo 1833140 Exec -> Pronto por tempo
+320 : Processo 1833140 Pronto -> Exec
+321 : Processo 1833140 Exec -> Pronto por tempo
+322 : Processo 1833140 Pronto -> Exec
+323 : Processo 1833140 Exec -> Pronto por tempo
+324 : Processo 1833140 Pronto -> Exec
+325 : Processo 1833140 Exec -> Pronto por tempo
+326 : Processo 1833140 Pronto -> Exec
+327 : Processo 1833140 Exec -> Pronto por tempo
+328 : Processo 1833140 Pronto -> Exec
+329 : Processo 1833140 Exec -> Pronto por tempo
+330 : Processo 1833140 Pronto -> Exec
+331 : Processo 1833140 Exec -> Pronto por tempo
+332 : Processo 1833140 Pronto -> Exec
+333 : Processo 1833140 Exec -> Pronto por tempo
+334 : Processo 1833140 Pronto -> Exec
+335 : Processo 1833140 Exec -> Pronto por tempo
+336 : Processo 1833140 Pronto -> Exec
+337 : Processo 1833140 Exec -> Pronto por tempo
+338 : Processo 1833140 Pronto -> Exec
+339 : Processo 1833140 Exec -> Pronto por tempo
+340 : Processo 1833140 Pronto -> Exec
+341 : Processo 1833140 Exec -> Pronto por tempo
+342 : Processo 1833140 Pronto -> Exec
+343 : Processo 1833140 Exec -> Pronto por tempo
+344 : Processo 1833140 Pronto -> Exec
+345 : Processo 1833140 Exec -> Pronto por tempo
+346 : Processo 1833140 Pronto -> Exec
+347 : Processo 1833140 Exec -> Pronto por tempo
+348 : Processo 1833140 Pronto -> Exec
+349 : Processo 1833140 Exec -> Pronto por tempo
+350 : Processo 1833140 Pronto -> Exec
+351 : Processo 1833140 Exec -> Pronto por tempo
+352 : Processo 1833140 Pronto -> Exec
+353 : Processo 1833140 Exec -> Pronto por tempo
+354 : Processo 1833140 Pronto -> Exec
+355 : Processo 1833140 Exec -> Pronto por tempo
+356 : Processo 1833140 Pronto -> Exec
+357 : Processo 1833140 Exec -> Pronto por tempo
+358 : Processo 1833140 Pronto -> Exec
+359 : Processo 1833140 Exec -> Pronto por tempo
+360 : Processo 1833140 Pronto -> Exec
+361 : Processo 1833140 Exec -> Pronto por tempo
+362 : Processo 1833140 Pronto -> Exec
+363 : Processo 1833140 Exec -> Pronto por tempo
+364 : Processo 1833140 Pronto -> Exec
+365 : Processo 1833140 Exec -> Pronto por tempo
+366 : Processo 1833140 Pronto -> Exec
+367 : Processo 1833140 Exec -> Pronto por tempo
+368 : Processo 1833140 Pronto -> Exec
+369 : Processo 1833140 Exec -> Pronto por tempo
+370 : Processo 1833140 Pronto -> Exec
+371 : Processo 1833140 Exec -> Pronto por tempo
+372 : Processo 1833140 Pronto -> Exec
+373 : Processo 1833140 Exec -> Pronto por tempo
+374 : Processo 1833140 Pronto -> Exec
+375 : Processo 1833140 Exec -> Pronto por tempo
+376 : Processo 1833140 Pronto -> Exec
+377 : Processo 1833140 Exec -> Pronto por tempo
+378 : Processo 1833140 Pronto -> Exec
+379 : Processo 1833140 Exec -> Pronto por tempo
+380 : Processo 1833140 Pronto -> Exec
+381 : Processo 1833140 Exec -> Pronto por tempo
+382 : Processo 1833140 Pronto -> Exec
+383 : Processo 1833140 Exec -> Pronto por tempo
+384 : Processo 1833140 Pronto -> Exec
+385 : Processo 1833140 Exec -> Pronto por tempo
+386 : Processo 1833140 Pronto -> Exec
+387 : Processo 1833140 Exec -> Pronto por tempo
+388 : Processo 1833140 Pronto -> Exec
+389 : Processo 1833140 Exec -> Pronto por tempo
+390 : Processo 1833140 Pronto -> Exec
+391 : Processo 1833140 Exec -> Pronto por tempo
+392 : Processo 1833140 Pronto -> Exec
+393 : Processo 1833140 Exec -> Pronto por tempo
+394 : Processo 1833140 Pronto -> Exec
+395 : Processo 1833140 Exec -> Pronto por tempo
+396 : Processo 1833140 Pronto -> Exec
+397 : Processo 1833140 Exec -> Pronto por tempo
+398 : Processo 1833140 Pronto -> Exec
+399 : Processo 1833140 Exec -> Pronto por tempo
+400 : Processo 1833140 Pronto -> Exec
+401 : Processo 1833140 Exec -> Pronto por tempo
+402 : Processo 1833140 Pronto -> Exec
+403 : Processo 1833140 Exec -> Pronto por tempo
+404 : Processo 1833140 Pronto -> Exec
+405 : Processo 1833140 Exec -> Pronto por tempo
+406 : Processo 1833140 Pronto -> Exec
+407 : Processo 1833140 Exec -> Pronto por tempo
+408 : Processo 1833140 Pronto -> Exec
+409 : Processo 1833140 Exec -> Pronto por tempo
+410 : Processo 1833140 Pronto -> Exec
+411 : Processo 1833140 Exec -> Pronto por tempo
+412 : Processo 1833140 Pronto -> Exec
+413 : Processo 1833140 Exec -> Pronto por tempo
+414 : Processo 1833140 Pronto -> Exec
+415 : Processo 1833140 Exec -> Pronto por tempo
+416 : Processo 1833140 Pronto -> Exec
+417 : Processo 1833140 Exec -> Pronto por tempo
+418 : Processo 1833140 Pronto -> Exec
+419 : Processo 1833140 Exec -> Pronto por tempo
+420 : Processo 1833140 Pronto -> Exec
+421 : Processo 1833140 Exec -> Pronto por tempo
+422 : Processo 1833140 Pronto -> Exec
+423 : Processo 1833140 Exec -> Pronto por tempo
+424 : Processo 1833140 Pronto -> Exec
+425 : Processo 1833140 Exec -> Pronto por tempo
+426 : Processo 1833140 Pronto -> Exec
+427 : Processo 1833140 Exec -> Pronto por tempo
+428 : Processo 1833140 Pronto -> Exec
+429 : Processo 1833140 Exec -> Pronto por tempo
+430 : Processo 1833140 Pronto -> Exec
+431 : Processo 1833140 Exec -> Pronto por tempo
+432 : Processo 1833140 Pronto -> Exec
+433 : Processo 1833140 Exec -> Pronto por tempo
+434 : Processo 1833140 Pronto -> Exec
+435 : Processo 1833140 Exec -> Pronto por tempo
+436 : Processo 1833140 Pronto -> Exec
+437 : Processo 1833140 Exec -> Pronto por tempo
+438 : Processo 1833140 Pronto -> Exec
+439 : Processo 1833140 Exec -> Pronto por tempo
+440 : Processo 1833140 Pronto -> Exec
+441 : Processo 1833140 Exec -> Pronto por tempo
+442 : Processo 1833140 Pronto -> Exec
+443 : Processo 1833140 Exec -> Pronto por tempo
+444 : Processo 1833140 Pronto -> Exec
+445 : Processo 1833140 Exec -> Pronto por tempo
+446 : Processo 1833140 Pronto -> Exec
+447 : Processo 1833140 Exec -> Pronto por tempo
+448 : Processo 1833140 Pronto -> Exec
+449 : Processo 1833140 Exec -> Pronto por tempo
+450 : Processo 1833140 Pronto -> Exec
+451 : Processo 1833140 Exec -> Pronto por tempo
+452 : Processo 1833140 Pronto -> Exec
+453 : Processo 1833140 Exec -> Pronto por tempo
+454 : Processo 1833140 Pronto -> Exec
+455 : Processo 1833140 Exec -> Pronto por tempo
+456 : Processo 1833140 Pronto -> Exec
+457 : Processo 1833140 Exec -> Pronto por tempo
+458 : Processo 1833140 Pronto -> Exec
+459 : Processo 1833140 Exec -> Pronto por tempo
+460 : Processo 1833140 Pronto -> Exec
+461 : Processo 1833140 Exec -> Pronto por tempo
+462 : Processo 1833140 Pronto -> Exec
+463 : Processo 1833140 Exec -> Pronto por tempo
+464 : Processo 1833140 Pronto -> Exec
+465 : Processo 1833140 Exec -> Pronto por tempo
+466 : Processo 1833140 Pronto -> Exec
+467 : Processo 1833140 Exec -> Pronto por tempo
+468 : Processo 1833140 Pronto -> Exec
+469 : Processo 1833140 Exec -> Pronto por tempo
+470 : Processo 1833140 Pronto -> Exec
+471 : Processo 1833140 Exec -> Pronto por tempo
+472 : Processo 1833140 Pronto -> Exec
+473 : Processo 1833140 Exec -> Pronto por tempo
+474 : Processo 1833140 Pronto -> Exec
+475 : Processo 1833140 Exec -> Pronto por tempo
+476 : Processo 1833140 Pronto -> Exec
+477 : Processo 1833140 Exec -> Pronto por tempo
+478 : Processo 1833140 Pronto -> Exec
+479 : Processo 1833140 Exec -> Pronto por tempo
+480 : Processo 1833140 Pronto -> Exec
+481 : Processo 1833140 Exec -> Pronto por tempo
+482 : Processo 1833140 Pronto -> Exec
+483 : Processo 1833140 Exec -> Pronto por tempo
+484 : Processo 1833140 Pronto -> Exec
+485 : Processo 1833140 Exec -> Pronto por tempo
+486 : Processo 1833140 Pronto -> Exec
+487 : Processo 1833140 Exec -> Pronto por tempo
+488 : Processo 1833140 Pronto -> Exec
+489 : Processo 1833140 Exec -> Pronto por tempo
+490 : Processo 1833140 Pronto -> Exec
+491 : Processo 1833140 Exec -> Pronto por tempo
+492 : Processo 1833140 Pronto -> Exec
+493 : Processo 1833140 Exec -> Pronto por tempo
+494 : Processo 1833140 Pronto -> Exec
+495 : Processo 1833140 Exec -> Pronto por tempo
+496 : Processo 1833140 Pronto -> Exec
+497 : Processo 1833140 Exec -> Pronto por tempo
+498 : Processo 1833140 Pronto -> Exec
+499 : Processo 1833140 Exec -> Pronto por tempo
+500 : Processo 1833140 Pronto -> Exec
+501 : Processo 1833140 Exec -> Pronto por tempo
+502 : Processo 1833140 Pronto -> Exec
+503 : Processo 1833140 Exec -> Pronto por tempo
+504 : Processo 1833140 Pronto -> Exec
+505 : Processo 1833140 Exec -> Pronto por tempo
+506 : Processo 1833140 Pronto -> Exec
+507 : Processo 1833140 Exec -> Pronto por tempo
+508 : Processo 1833140 Pronto -> Exec
+509 : Processo 1833140 Exec -> Pronto por tempo
+510 : Processo 1833140 Pronto -> Exec
+511 : Processo 1833140 Exec -> Pronto por tempo
+512 : Processo 1833140 Pronto -> Exec
+513 : Processo 1833140 Exec -> Pronto por tempo
+514 : Processo 1833140 Pronto -> Exec
+515 : Processo 1833140 Exec -> Pronto por tempo
+516 : Processo 1833140 Pronto -> Exec
+517 : Processo 1833140 Exec -> Pronto por tempo
+518 : Processo 1833140 Pronto -> Exec
+519 : Processo 1833140 Exec -> Pronto por tempo
+520 : Processo 1833140 Pronto -> Exec
+521 : Processo 1833140 Exec -> Pronto por tempo
+522 : Processo 1833140 Pronto -> Exec
+523 : Processo 1833140 Exec -> Pronto por tempo
+524 : Processo 1833140 Pronto -> Exec
+525 : Processo 1833140 Exec -> Pronto por tempo
+526 : Processo 1833140 Pronto -> Exec
+527 : Processo 1833140 Exec -> Pronto por tempo
+528 : Processo 1833140 Pronto -> Exec
+529 : Processo 1833140 Exec -> Pronto por tempo
+530 : Processo 1833140 Pronto -> Exec
+531 : Processo 1833140 Exec -> Pronto por tempo
+532 : Processo 1833140 Pronto -> Exec
+533 : Processo 1833140 Exec -> Pronto por tempo
+534 : Processo 1833140 Pronto -> Exec
+535 : Processo 1833140 Exec -> Pronto por tempo
+536 : Processo 1833140 Pronto -> Exec
+537 : Processo 1833140 Exec -> Pronto por tempo
+538 : Processo 1833140 Pronto -> Exec
+539 : Processo 1833140 Exec -> Pronto por tempo
+540 : Processo 1833140 Pronto -> Exec
+541 : Processo 1833140 Exec -> Pronto por tempo
+542 : Processo 1833140 Pronto -> Exec
+543 : Processo 1833140 Exec -> Pronto por tempo
+544 : Processo 1833140 Pronto -> Exec
+545 : Processo 1833140 Exec -> Pronto por tempo
+546 : Processo 1833140 Pronto -> Exec
+547 : Processo 1833140 Exec -> Pronto por tempo
+548 : Processo 1833140 Pronto -> Exec
+549 : Processo 1833140 Exec -> Pronto por tempo
+550 : Processo 1833140 Pronto -> Exec
+551 : Processo 1833140 Exec -> Pronto por tempo
+552 : Processo 1833140 Pronto -> Exec
+553 : Processo 1833140 Exec -> Pronto por tempo
+554 : Processo 1833140 Pronto -> Exec
+555 : Processo 1833140 Exec -> Pronto por tempo
+556 : Processo 1833140 Pronto -> Exec
+557 : Processo 1833140 Exec -> Pronto por tempo
+558 : Processo 1833140 Pronto -> Exec
+559 : Processo 1833140 Exec -> Pronto por tempo
+560 : Processo 1833140 Pronto -> Exec
+561 : Processo 1833140 Exec -> Pronto por tempo
+562 : Processo 1833140 Pronto -> Exec
+563 : Processo 1833140 Exec -> Pronto por tempo
+564 : Processo 1833140 Pronto -> Exec
+565 : Processo 1833140 Exec -> Pronto por tempo
+566 : Processo 1833140 Pronto -> Exec
+567 : Processo 1833140 Exec -> Pronto por tempo
+568 : Processo 1833140 Pronto -> Exec
+569 : Processo 1833140 Exec -> Pronto por tempo
+570 : Processo 1833140 Pronto -> Exec
+571 : Processo 1833140 Exec -> Pronto por tempo
+572 : Processo 1833140 Pronto -> Exec
+573 : Processo 1833140 Exec -> Pronto por tempo
+574 : Processo 1833140 Pronto -> Exec
+575 : Processo 1833140 Exec -> Pronto por tempo
+576 : Processo 1833140 Pronto -> Exec
+577 : Processo 1833140 Exec -> Pronto por tempo
+578 : Processo 1833140 Pronto -> Exec
+579 : Processo 1833140 Exec -> Pronto por tempo
+580 : Processo 1833140 Pronto -> Exec
+581 : Processo 1833140 Exec -> Pronto por tempo
+582 : Processo 1833140 Pronto -> Exec
+583 : Processo 1833140 Exec -> Pronto por tempo
+584 : Processo 1833140 Pronto -> Exec
+585 : Processo 1833140 Exec -> Pronto por tempo
+586 : Processo 1833140 Pronto -> Exec
+587 : Processo 1833140 Exec -> Pronto por tempo
+588 : Processo 1833140 Pronto -> Exec
+589 : Processo 1833140 Exec -> Pronto por tempo
+590 : Processo 1833140 Pronto -> Exec
+591 : Processo 1833140 Exec -> Pronto por tempo
+592 : Processo 1833140 Pronto -> Exec
+593 : Processo 1833140 Exec -> Pronto por tempo
+594 : Processo 1833140 Pronto -> Exec
+595 : Processo 1833140 Exec -> Pronto por tempo
+596 : Processo 1833140 Pronto -> Exec
+597 : Processo 1833140 Exec -> Pronto por tempo
+598 : Processo 1833140 Pronto -> Exec
+599 : Processo 1833140 Exec -> Pronto por tempo
+600 : Processo 1833140 Pronto -> Exec
+601 : Processo 1833140 Exec -> Pronto por tempo
+602 : Processo 1833140 Pronto -> Exec
+603 : Processo 1833140 Exec -> Pronto por tempo
+604 : Processo 1833140 Pronto -> Exec
+605 : Processo 1833140 Exec -> Pronto por tempo
+606 : Processo 1833140 Pronto -> Exec
+607 : Processo 1833140 Exec -> Pronto por tempo
+608 : Processo 1833140 Pronto -> Exec
+609 : Processo 1833140 Exec -> Pronto por tempo
+610 : Processo 1833140 Pronto -> Exec
+611 : Processo 1833140 Exec -> Pronto por tempo
+612 : Processo 1833140 Pronto -> Exec
+613 : Processo 1833140 Exec -> Pronto por tempo
+614 : Processo 1833140 Pronto -> Exec
+615 : Processo 1833140 Exec -> Pronto por tempo
+616 : Processo 1833140 Pronto -> Exec
+617 : Processo 1833140 Exec -> Pronto por tempo
+618 : Processo 1833140 Pronto -> Exec
+619 : Processo 1833140 Exec -> Pronto por tempo
+620 : Processo 1833140 Pronto -> Exec
+621 : Processo 1833140 Exec -> Pronto por tempo
+622 : Processo 1833140 Pronto -> Exec
+623 : Processo 1833140 Exec -> Pronto por tempo
+624 : Processo 1833140 Pronto -> Exec
+625 : Processo 1833140 Exec -> Pronto por tempo
+626 : Processo 1833140 Pronto -> Exec
+627 : Processo 1833140 Exec -> Pronto por tempo
+628 : Processo 1833140 Pronto -> Exec
+629 : Processo 1833140 Exec -> Pronto por tempo
+630 : Processo 1833140 Pronto -> Exec
+631 : Processo 1833140 Exec -> Pronto por tempo
+632 : Processo 1833140 Pronto -> Exec
+633 : Processo 1833140 Exec -> Pronto por tempo
+634 : Processo 1833140 Pronto -> Exec
+635 : Processo 1833140 Exec -> Pronto por tempo
+636 : Processo 1833140 Pronto -> Exec
+637 : Processo 1833140 Exec -> Pronto por tempo
+638 : Processo 1833140 Pronto -> Exec
+639 : Processo 1833140 Exec -> Pronto por tempo
+640 : Processo 1833140 Pronto -> Exec
+641 : Processo 1833140 Exec -> Pronto por tempo
+642 : Processo 1833140 Pronto -> Exec
+643 : Processo 1833140 Exec -> Pronto por tempo
+644 : Processo 1833140 Pronto -> Exec
+645 : Processo 1833140 Exec -> Pronto por tempo
+646 : Processo 1833140 Pronto -> Exec
+647 : Processo 1833140 Exec -> Pronto por tempo
+648 : Processo 1833140 Pronto -> Exec
+649 : Processo 1833140 Exec -> Pronto por tempo
+650 : Processo 1833140 Pronto -> Exec
+651 : Processo 1833140 Exec -> Pronto por tempo
+652 : Processo 1833140 Pronto -> Exec
+653 : Processo 1833140 Exec -> Pronto por tempo
+654 : Processo 1833140 Pronto -> Exec
+655 : Processo 1833140 Exec -> Pronto por tempo
+656 : Processo 1833140 Pronto -> Exec
+657 : Processo 1833140 Exec -> Pronto por tempo
+658 : Processo 1833140 Pronto -> Exec
+659 : Processo 1833140 Exec -> Pronto por tempo
+660 : Processo 1833140 Pronto -> Exec
+661 : Processo 1833140 Exec -> Pronto por tempo
+662 : Processo 1833140 Pronto -> Exec
+663 : Processo 1833140 Exec -> Pronto por tempo
+664 : Processo 1833140 Pronto -> Exec
+665 : Processo 1833140 Exec -> Pronto por tempo
+666 : Processo 1833140 Pronto -> Exec
+667 : Processo 1833140 Exec -> Pronto por tempo
+668 : Processo 1833140 Pronto -> Exec
+669 : Processo 1833140 Exec -> Pronto por tempo
+670 : Processo 1833140 Pronto -> Exec
+671 : Processo 1833140 Exec -> Pronto por tempo
+672 : Processo 1833140 Pronto -> Exec
+673 : Processo 1833140 Exec -> Pronto por tempo
+674 : Processo 1833140 Pronto -> Exec
+675 : Processo 1833140 Exec -> Pronto por tempo
+676 : Processo 1833140 Pronto -> Exec

@@ -1,0 +1,38 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+77 : Processo 3730019 alocacao de blocos no pagefile
+77 : Processo 3730019 HwPF - Executável0
+77 : Processo 3730019 HwPF - Executável1
+77 : Processo 3730019 HwPF - Executável2
+77 : Processo 3730019 HwPF - Executável3
+77 : Processo 3730019 HwPF - Executável4
+77 : Processo 3730019 criado
+78 : Processo 3730019 Pronto -> Exec
+79 : Processo 3730019 Exec -> Pronto por tempo
+80 : Processo 3730019 Pronto -> Exec
+81 : Processo 3730019 Exec -> Pronto por tempo
+82 : Processo 3730019 Pronto -> Exec
+83 : Processo 3730019 Exec -> Pronto por tempo
+84 : Processo 3730019 Pronto -> Exec
+85 : Processo 3730019 Exec -> Pronto por tempo
+86 : Processo 3730019 Pronto -> Exec
+87 : Processo 3730019 Exec -> Pronto por tempo
+88 : Processo 3730019 Pronto -> Exec
+89 : Processo 3730019 Exec -> Pronto por tempo
+90 : Processo 3730019 Pronto -> Exec
+91 : Processo 3730019 Exec -> Pronto por tempo
+92 : Processo 3730019 Pronto -> Exec
+93 : Processo 3730019 Exec -> Pronto por tempo
+94 : Processo 3730019 Pronto -> Exec
+95 : Processo 3730019 Exec -> Pronto por tempo
+96 : Processo 3730019 Pronto -> Exec
+97 : Processo 3730019 Exec -> Pronto por tempo
+98 : Processo 3730019 Pronto -> Exec
+99 : Processo 3730019 Exec -> Pronto por tempo
+100 : Processo 3730019 Pronto -> Exec
+101 : Processo 3730019 Exec -> Pronto por tempo
+102 : Processo 3730019 Pronto -> Exec
+103 : Processo 3730019 Exec -> Pronto por tempo
+104 : Processo 3730019 Pronto -> Exec
+105 : Processo 3730019 Exec -> Pronto por tempo
+106 : Processo 3730019 Pronto -> Exec

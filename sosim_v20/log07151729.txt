@@ -1,0 +1,380 @@
+0 : Inicializando SOsim ...
+3 : SOsim pronto
+46 : Processo 3000844 alocacao de blocos no pagefile
+46 : Processo 3000844 HwPF - Executável0
+46 : Processo 3000844 HwPF - Executável1
+46 : Processo 3000844 HwPF - Executável2
+46 : Processo 3000844 HwPF - Executável3
+46 : Processo 3000844 HwPF - Executável4
+46 : Processo 3000844 criado
+47 : Processo 3000844 Pronto -> Exec
+48 : Processo 3000844 Exec -> Pronto por tempo
+49 : Processo 3000844 Pronto -> Exec
+50 : Processo 3000844 Exec -> Pronto por tempo
+51 : Processo 3000844 Pronto -> Exec
+52 : Processo 3000844 Exec -> Pronto por tempo
+53 : Processo 3000844 Pronto -> Exec
+54 : Processo 3000844 Exec -> Pronto por tempo
+55 : Processo 3000844 Pronto -> Exec
+56 : Processo 3000844 Exec -> Pronto por tempo
+57 : Processo 3000844 Pronto -> Exec
+58 : Processo 3000844 Exec -> Pronto por tempo
+59 : Processo 3000844 Pronto -> Exec
+60 : Processo 3000844 Exec -> Pronto por tempo
+61 : Processo 3000844 Pronto -> Exec
+62 : Processo 3000844 Exec -> Pronto por tempo
+63 : Processo 3000844 Pronto -> Exec
+64 : Processo 3000844 Exec -> Pronto por tempo
+65 : Processo 3000844 Pronto -> Exec
+66 : Processo 3000844 Exec -> Pronto por tempo
+67 : Processo 3000844 Pronto -> Exec
+68 : Processo 3000844 Exec -> Pronto por tempo
+69 : Processo 3000844 Pronto -> Exec
+70 : Processo 3000844 Exec -> Pronto por tempo
+71 : Processo 3000844 Pronto -> Exec
+72 : Processo 3000844 Exec -> Pronto por tempo
+73 : Processo 3000844 Pronto -> Exec
+74 : Processo 3000844 Exec -> Pronto por tempo
+75 : Processo 3000844 Pronto -> Exec
+76 : Processo 3000844 Exec -> Pronto por tempo
+77 : Processo 3000844 Pronto -> Exec
+78 : Processo 3000844 Exec -> Pronto por tempo
+79 : Processo 3000844 Pronto -> Exec
+80 : Processo 3000844 Exec -> Pronto por tempo
+81 : Processo 3000844 Pronto -> Exec
+82 : Processo 3000844 Exec -> Pronto por tempo
+83 : Processo 3000844 Pronto -> Exec
+84 : Processo 3000844 Exec -> Pronto por tempo
+85 : Processo 3000844 Pronto -> Exec
+86 : Processo 3000844 Exec -> Pronto por tempo
+87 : Processo 3000844 Pronto -> Exec
+88 : Processo 3000844 Exec -> Pronto por tempo
+89 : Processo 3000844 Pronto -> Exec
+90 : Processo 3000844 Exec -> Pronto por tempo
+91 : Processo 3000844 Pronto -> Exec
+92 : Processo 3000844 Exec -> Pronto por tempo
+93 : Processo 3000844 Pronto -> Exec
+94 : Processo 3000844 Exec -> Pronto por tempo
+95 : Processo 3000844 Pronto -> Exec
+96 : Processo 3000844 Exec -> Pronto por tempo
+97 : Processo 3000844 Pronto -> Exec
+98 : Processo 3000844 Exec -> Pronto por tempo
+99 : Processo 3000844 Pronto -> Exec
+100 : Processo 3000844 Exec -> Pronto por tempo
+101 : Processo 3000844 Pronto -> Exec
+102 : Processo 3000844 Exec -> Pronto por tempo
+103 : Processo 3000844 Pronto -> Exec
+104 : Processo 3000844 Exec -> Pronto por tempo
+105 : Processo 3000844 Pronto -> Exec
+106 : Processo 3000844 Exec -> Pronto por tempo
+107 : Processo 3000844 Pronto -> Exec
+108 : Processo 3000844 Exec -> Pronto por tempo
+109 : Processo 3000844 Pronto -> Exec
+110 : Processo 3000844 Exec -> Pronto por tempo
+111 : Processo 3000844 Pronto -> Exec
+112 : Processo 3000844 Exec -> Pronto por tempo
+113 : Processo 3000844 Pronto -> Exec
+114 : Processo 3000844 Exec -> Pronto por tempo
+115 : Processo 3000844 Pronto -> Exec
+116 : Processo 3000844 Exec -> Pronto por tempo
+117 : Processo 3000844 Pronto -> Exec
+118 : Processo 3000844 Exec -> Pronto por tempo
+119 : Processo 3000844 Pronto -> Exec
+120 : Processo 3000844 Exec -> Pronto por tempo
+121 : Processo 3000844 Pronto -> Exec
+122 : Processo 3000844 Exec -> Pronto por tempo
+123 : Processo 3000844 Pronto -> Exec
+124 : Processo 3000844 Exec -> Pronto por tempo
+125 : Processo 3000844 Pronto -> Exec
+126 : Processo 3000844 Exec -> Pronto por tempo
+127 : Processo 3000844 Pronto -> Exec
+128 : Processo 3000844 Exec -> Pronto por tempo
+129 : Processo 3000844 Pronto -> Exec
+130 : Processo 3000844 Exec -> Pronto por tempo
+131 : Processo 3000844 Pronto -> Exec
+132 : Processo 3000844 Exec -> Pronto por tempo
+133 : Processo 3000844 Pronto -> Exec
+134 : Processo 3000844 Exec -> Pronto por tempo
+135 : Processo 3000844 Pronto -> Exec
+136 : Processo 3000844 Exec -> Pronto por tempo
+137 : Processo 3000844 Pronto -> Exec
+138 : Processo 3000844 Exec -> Pronto por tempo
+139 : Processo 3000844 Pronto -> Exec
+140 : Processo 3000844 Exec -> Pronto por tempo
+141 : Processo 3000844 Pronto -> Exec
+142 : Processo 3000844 Exec -> Pronto por tempo
+143 : Processo 3000844 Pronto -> Exec
+144 : Processo 3000844 Exec -> Pronto por tempo
+145 : Processo 3000844 Pronto -> Exec
+146 : Processo 3000844 Exec -> Pronto por tempo
+147 : Processo 3000844 Pronto -> Exec
+148 : Processo 3000844 Exec -> Pronto por tempo
+149 : Processo 3000844 Pronto -> Exec
+150 : Processo 3000844 Exec -> Pronto por tempo
+151 : Processo 3000844 Pronto -> Exec
+152 : Processo 3000844 Exec -> Pronto por tempo
+153 : Processo 3000844 Pronto -> Exec
+154 : Processo 3000844 Exec -> Pronto por tempo
+155 : Processo 3000844 Pronto -> Exec
+156 : Processo 3000844 Exec -> Pronto por tempo
+157 : Processo 3000844 Pronto -> Exec
+158 : Processo 3000844 Exec -> Pronto por tempo
+159 : Processo 3000844 Pronto -> Exec
+160 : Processo 3000844 Exec -> Pronto por tempo
+161 : Processo 3000844 Pronto -> Exec
+162 : Processo 3000844 Exec -> Pronto por tempo
+163 : Processo 3000844 Pronto -> Exec
+164 : Processo 3000844 Exec -> Pronto por tempo
+165 : Processo 3000844 Pronto -> Exec
+166 : Processo 3000844 Exec -> Pronto por tempo
+167 : Processo 3000844 Pronto -> Exec
+168 : Processo 3000844 Exec -> Pronto por tempo
+169 : Processo 3000844 Pronto -> Exec
+170 : Processo 3000844 Exec -> Pronto por tempo
+171 : Processo 3000844 Pronto -> Exec
+172 : Processo 3000844 Exec -> Pronto por tempo
+173 : Processo 3000844 Pronto -> Exec
+174 : Processo 3000844 Exec -> Pronto por tempo
+175 : Processo 3000844 Pronto -> Exec
+176 : Processo 3000844 Exec -> Pronto por tempo
+177 : Processo 3000844 Pronto -> Exec
+178 : Processo 3000844 Exec -> Pronto por tempo
+179 : Processo 3000844 Pronto -> Exec
+180 : Processo 3000844 Exec -> Pronto por tempo
+181 : Processo 3000844 Pronto -> Exec
+182 : Processo 3000844 Exec -> Pronto por tempo
+183 : Processo 3000844 Pronto -> Exec
+184 : Processo 3000844 Exec -> Pronto por tempo
+185 : Processo 3000844 Pronto -> Exec
+186 : Processo 3000844 Exec -> Pronto por tempo
+187 : Processo 3000844 Pronto -> Exec
+188 : Processo 3000844 Exec -> Pronto por tempo
+189 : Processo 3000844 Pronto -> Exec
+190 : Processo 3000844 Exec -> Pronto por tempo
+191 : Processo 3000844 Pronto -> Exec
+192 : Processo 3000844 Exec -> Pronto por tempo
+193 : Processo 3000844 Pronto -> Exec
+194 : Processo 3000844 Exec -> Pronto por tempo
+195 : Processo 3000844 Pronto -> Exec
+196 : Processo 3000844 Exec -> Pronto por tempo
+197 : Processo 3000844 Pronto -> Exec
+198 : Processo 3000844 Exec -> Pronto por tempo
+199 : Processo 3000844 Pronto -> Exec
+200 : Processo 3000844 Exec -> Pronto por tempo
+201 : Processo 3000844 Pronto -> Exec
+202 : Processo 3000844 Exec -> Pronto por tempo
+203 : Processo 3000844 Pronto -> Exec
+204 : Processo 3000844 Exec -> Pronto por tempo
+205 : Processo 3000844 Pronto -> Exec
+206 : Processo 3000844 Exec -> Pronto por tempo
+207 : Processo 3000844 Pronto -> Exec
+208 : Processo 3000844 Exec -> Pronto por tempo
+209 : Processo 3000844 Pronto -> Exec
+210 : Processo 3000844 Exec -> Pronto por tempo
+211 : Processo 3000844 Pronto -> Exec
+212 : Processo 3000844 Exec -> Pronto por tempo
+213 : Processo 3000844 Pronto -> Exec
+214 : Processo 3000844 Exec -> Pronto por tempo
+215 : Processo 3000844 Pronto -> Exec
+216 : Processo 3000844 Exec -> Pronto por tempo
+217 : Processo 3000844 Pronto -> Exec
+218 : Processo 3000844 Exec -> Pronto por tempo
+219 : Processo 3000844 Pronto -> Exec
+220 : Processo 3000844 Exec -> Pronto por tempo
+221 : Processo 3000844 Pronto -> Exec
+222 : Processo 3000844 Exec -> Pronto por tempo
+223 : Processo 3000844 Pronto -> Exec
+224 : Processo 3000844 Exec -> Pronto por tempo
+225 : Processo 3000844 Pronto -> Exec
+226 : Processo 3000844 Exec -> Pronto por tempo
+227 : Processo 3000844 Pronto -> Exec
+228 : Processo 3000844 Exec -> Pronto por tempo
+229 : Processo 3000844 Pronto -> Exec
+230 : Processo 3000844 Exec -> Pronto por tempo
+231 : Processo 3000844 Pronto -> Exec
+232 : Processo 3000844 Exec -> Pronto por tempo
+233 : Processo 3000844 Pronto -> Exec
+234 : Processo 3000844 Exec -> Pronto por tempo
+235 : Processo 3000844 Pronto -> Exec
+236 : Processo 3000844 Exec -> Pronto por tempo
+237 : Processo 3000844 Pronto -> Exec
+238 : Processo 3000844 Exec -> Pronto por tempo
+239 : Processo 3000844 Pronto -> Exec
+240 : Processo 3000844 Exec -> Pronto por tempo
+241 : Processo 3000844 Pronto -> Exec
+242 : Processo 3000844 Exec -> Pronto por tempo
+243 : Processo 3000844 Pronto -> Exec
+244 : Processo 3000844 Exec -> Pronto por tempo
+245 : Processo 3000844 Pronto -> Exec
+246 : Processo 3000844 Exec -> Pronto por tempo
+247 : Processo 3000844 Pronto -> Exec
+248 : Processo 3000844 Exec -> Pronto por tempo
+249 : Processo 3000844 Pronto -> Exec
+250 : Processo 3000844 Exec -> Pronto por tempo
+251 : Processo 3000844 Pronto -> Exec
+252 : Processo 3000844 Exec -> Pronto por tempo
+253 : Processo 3000844 Pronto -> Exec
+254 : Processo 3000844 Exec -> Pronto por tempo
+255 : Processo 3000844 Pronto -> Exec
+256 : Processo 3000844 Exec -> Pronto por tempo
+257 : Processo 3000844 Pronto -> Exec
+258 : Processo 3000844 Exec -> Pronto por tempo
+259 : Processo 3000844 Pronto -> Exec
+260 : Processo 3000844 Exec -> Pronto por tempo
+261 : Processo 3000844 Pronto -> Exec
+262 : Processo 3000844 Exec -> Pronto por tempo
+263 : Processo 3000844 Pronto -> Exec
+264 : Processo 3000844 Exec -> Pronto por tempo
+265 : Processo 3000844 Pronto -> Exec
+266 : Processo 3000844 Exec -> Pronto por tempo
+267 : Processo 3000844 Pronto -> Exec
+268 : Processo 3000844 Exec -> Pronto por tempo
+269 : Processo 3000844 Pronto -> Exec
+270 : Processo 3000844 Exec -> Pronto por tempo
+271 : Processo 3000844 Pronto -> Exec
+272 : Processo 3000844 Exec -> Pronto por tempo
+273 : Processo 3000844 Pronto -> Exec
+274 : Processo 3000844 Exec -> Pronto por tempo
+275 : Processo 3000844 Pronto -> Exec
+276 : Processo 3000844 Exec -> Pronto por tempo
+277 : Processo 3000844 Pronto -> Exec
+278 : Processo 3000844 Exec -> Pronto por tempo
+279 : Processo 3000844 Pronto -> Exec
+280 : Processo 3000844 Exec -> Pronto por tempo
+281 : Processo 3000844 Pronto -> Exec
+282 : Processo 3000844 Exec -> Pronto por tempo
+283 : Processo 3000844 Pronto -> Exec
+284 : Processo 3000844 Exec -> Pronto por tempo
+285 : Processo 3000844 Pronto -> Exec
+286 : Processo 3000844 Exec -> Pronto por tempo
+287 : Processo 3000844 Pronto -> Exec
+288 : Processo 3000844 Exec -> Pronto por tempo
+289 : Processo 3000844 Pronto -> Exec
+290 : Processo 3000844 Exec -> Pronto por tempo
+291 : Processo 3000844 Pronto -> Exec
+292 : Processo 3000844 Exec -> Pronto por tempo
+293 : Processo 3000844 Pronto -> Exec
+294 : Processo 3000844 Exec -> Pronto por tempo
+295 : Processo 3000844 Pronto -> Exec
+296 : Processo 3000844 Exec -> Pronto por tempo
+297 : Processo 3000844 Pronto -> Exec
+298 : Processo 3000844 Exec -> Pronto por tempo
+299 : Processo 3000844 Pronto -> Exec
+300 : Processo 3000844 Exec -> Pronto por tempo
+301 : Processo 3000844 Pronto -> Exec
+302 : Processo 3000844 Exec -> Pronto por tempo
+303 : Processo 3000844 Pronto -> Exec
+304 : Processo 3000844 Exec -> Pronto por tempo
+305 : Processo 3000844 Pronto -> Exec
+306 : Processo 3000844 Exec -> Pronto por tempo
+307 : Processo 3000844 Pronto -> Exec
+308 : Processo 3000844 Exec -> Pronto por tempo
+309 : Processo 3000844 Pronto -> Exec
+310 : Processo 3000844 Exec -> Pronto por tempo
+311 : Processo 3000844 Pronto -> Exec
+312 : Processo 3000844 Exec -> Pronto por tempo
+313 : Processo 3000844 Pronto -> Exec
+314 : Processo 3000844 Exec -> Pronto por tempo
+315 : Processo 3000844 Pronto -> Exec
+316 : Processo 3000844 Exec -> Pronto por tempo
+317 : Processo 3000844 Pronto -> Exec
+318 : Processo 3000844 Exec -> Pronto por tempo
+319 : Processo 3000844 Pronto -> Exec
+320 : Processo 3000844 Exec -> Pronto por tempo
+321 : Processo 3000844 Pronto -> Exec
+322 : Processo 3000844 Exec -> Pronto por tempo
+323 : Processo 3000844 Pronto -> Exec
+324 : Processo 3000844 Exec -> Pronto por tempo
+325 : Processo 3000844 Pronto -> Exec
+326 : Processo 3000844 Exec -> Pronto por tempo
+327 : Processo 3000844 Pronto -> Exec
+328 : Processo 3000844 Exec -> Pronto por tempo
+329 : Processo 3000844 Pronto -> Exec
+330 : Processo 3000844 Exec -> Pronto por tempo
+331 : Processo 3000844 Pronto -> Exec
+332 : Processo 3000844 Exec -> Pronto por tempo
+333 : Processo 3000844 Pronto -> Exec
+334 : Processo 3000844 Exec -> Pronto por tempo
+335 : Processo 3000844 Pronto -> Exec
+336 : Processo 3000844 Exec -> Pronto por tempo
+337 : Processo 3000844 Pronto -> Exec
+338 : Processo 3000844 Exec -> Pronto por tempo
+339 : Processo 3000844 Pronto -> Exec
+340 : Processo 3000844 Exec -> Pronto por tempo
+341 : Processo 3000844 Pronto -> Exec
+342 : Processo 3000844 Exec -> Pronto por tempo
+343 : Processo 3000844 Pronto -> Exec
+344 : Processo 3000844 Exec -> Pronto por tempo
+345 : Processo 3000844 Pronto -> Exec
+346 : Processo 3000844 Exec -> Pronto por tempo
+347 : Processo 3000844 Pronto -> Exec
+348 : Processo 3000844 Exec -> Pronto por tempo
+349 : Processo 3000844 Pronto -> Exec
+350 : Processo 3000844 Exec -> Pronto por tempo
+351 : Processo 3000844 Pronto -> Exec
+352 : Processo 3000844 Exec -> Pronto por tempo
+353 : Processo 3000844 Pronto -> Exec
+354 : Processo 3000844 Exec -> Pronto por tempo
+355 : Processo 3000844 Pronto -> Exec
+356 : Processo 3000844 Exec -> Pronto por tempo
+357 : Processo 3000844 Pronto -> Exec
+358 : Processo 3000844 Exec -> Pronto por tempo
+359 : Processo 3000844 Pronto -> Exec
+360 : Processo 3000844 Exec -> Pronto por tempo
+361 : Processo 3000844 Pronto -> Exec
+362 : Processo 3000844 Exec -> Pronto por tempo
+363 : Processo 3000844 Pronto -> Exec
+364 : Processo 3000844 Exec -> Pronto por tempo
+365 : Processo 3000844 Pronto -> Exec
+366 : Processo 3000844 Exec -> Pronto por tempo
+367 : Processo 3000844 Pronto -> Exec
+368 : Processo 3000844 Exec -> Pronto por tempo
+369 : Processo 3000844 Pronto -> Exec
+370 : Processo 3000844 Exec -> Pronto por tempo
+371 : Processo 3000844 Pronto -> Exec
+372 : Processo 3000844 Exec -> Pronto por tempo
+373 : Processo 3000844 Pronto -> Exec
+374 : Processo 3000844 Exec -> Pronto por tempo
+375 : Processo 3000844 Pronto -> Exec
+376 : Processo 3000844 Exec -> Pronto por tempo
+377 : Processo 3000844 Pronto -> Exec
+378 : Processo 3000844 Exec -> Pronto por tempo
+379 : Processo 3000844 Pronto -> Exec
+380 : Processo 3000844 Exec -> Pronto por tempo
+381 : Processo 3000844 Pronto -> Exec
+382 : Processo 3000844 Exec -> Pronto por tempo
+383 : Processo 3000844 Pronto -> Exec
+384 : Processo 3000844 Exec -> Pronto por tempo
+385 : Processo 3000844 Pronto -> Exec
+386 : Processo 3000844 Exec -> Pronto por tempo
+387 : Processo 3000844 Pronto -> Exec
+388 : Processo 3000844 Exec -> Pronto por tempo
+389 : Processo 3000844 Pronto -> Exec
+390 : Processo 3000844 Exec -> Pronto por tempo
+391 : Processo 3000844 Pronto -> Exec
+392 : Processo 3000844 Exec -> Pronto por tempo
+393 : Processo 3000844 Pronto -> Exec
+394 : Processo 3000844 Exec -> Pronto por tempo
+395 : Processo 3000844 Pronto -> Exec
+396 : Processo 3000844 Exec -> Pronto por tempo
+396 : Processo 3553166 alocacao de blocos no pagefile
+396 : Processo 3553166 HwPF - Executável0
+396 : Processo 3553166 HwPF - Executável1
+396 : Processo 3553166 HwPF - Executável2
+396 : Processo 3553166 HwPF - Executável3
+396 : Processo 3553166 HwPF - Executável4
+396 : Processo 3553166 criado
+397 : Processo 3000844 Pronto -> Exec
+398 : Processo 3000844 Exec -> Pronto por tempo
+399 : Processo 3553166 Pronto -> Exec
+399 : Processo 3553166 Exec -> I/O
+400 : Processo 3000844 Pronto -> Exec
+401 : Processo 3000844 Exec -> Pronto por tempo
+402 : Processo 3000844 Pronto -> Exec
+403 : Processo 3000844 Exec -> Pronto por tempo
+404 : Processo 3000844 Pronto -> Exec
+405 : Processo 3000844 Exec -> Pronto por tempo
+406 : Processo 3000844 Pronto -> Exec
+407 : Processo 3000844 Exec -> Pronto por tempo
+408 : Processo 3000844 Pronto -> Exec
+409 : Processo 3000844 Exec -> Pronto por tempo

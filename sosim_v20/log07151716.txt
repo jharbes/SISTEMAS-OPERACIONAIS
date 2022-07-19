@@ -1,0 +1,3 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+52 : SOsim desativado
