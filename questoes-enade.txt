@@ -1,0 +1,11 @@
+cap10) Gerenciamento de Memória(ENADE 2005 - Bacharelado em SI - 22) Com relação ao gerenciamento de memória com paginação em sistemas operacionais, assinale a opção correta.
+
+(A) As páginas utilizadas por um processo, sejam de código ou de dados, devem ser obrigatoriamente armazenadas na partição de swap do disco, quando o processo não estiver sendo executado.
+
+(B) Todas as páginas de um processo em execução devem ser mantidas na memória física enquanto o processo não tiver terminado.
+
+(C) Um processo somente pode ser iniciado se o sistema operacional conseguir alocar um bloco contíguo de páginas do tamanho da memória necessária para execução do processo. 
+
+(D) O espaço de endereçamento virtual disponível para os processos pode ser maior que a memória física disponível.
+
+(E) Um processo somente pode ser iniciado se o sistema operacional conseguir alocar todas as páginas de código desse processo.
