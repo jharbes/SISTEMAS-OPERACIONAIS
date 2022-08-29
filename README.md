@@ -1,3 +1,5 @@
+<img src="cefet-logo1.png" align="right" width="150">
+
 # SISTEMAS-OPERACIONAIS
  Disciplina Sistemas Operacionais - Sistemas de Informação - Cefet/RJ
  
